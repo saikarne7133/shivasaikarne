@@ -1,0 +1,3 @@
+we want to make the obstacle detection for our car, so that we can prevent in occuring of collision.
+we want to the detect the car weather it is travelling in correct direction of not, with respective to the two way road.
+WE gonna make our car to stop within fraction of sec if it detects the back red light of the forward car.
